@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bartdev22, my name is Armando, but you can call me bart
-- 👀 I’m interested about various areas of programming, but my goal is to become a Web Developer
-- 🌱 I’m currently learning frontend by creating some basic and cool projects to practice
-- 💞️ I’m looking to collaborate on projects to keep learning!
+👋 Hi, I’m @bartdev22, my name is Armando, but you can call me bart
+🎓 9th semester of systems engineering
+👨‍💻 Tech Passionate
+🪴 Getting better every day
 
 Let's Connect!!
